@@ -1,5 +1,6 @@
 
-# Tutorial: Creating a CRUD using Quarkus Java + REST + CDI + Panache, Hibernate with Postgres (Docker) + Postman
+# Creating a CRUD using Quarkus Java + REST + CDI + Panache, Hibernate with Postgres (Docker) + Postman
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
